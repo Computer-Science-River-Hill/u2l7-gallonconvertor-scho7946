@@ -1,4 +1,5 @@
 package org.example; //DO NOT DELETE
+
 /**
  * Sua Cho
  * Gallon Converter
@@ -6,8 +7,9 @@ package org.example; //DO NOT DELETE
 
 import java.util.Scanner; 
 
-public class main {
-  public static void main(String[] args) {
+public class ScannerExample {
+  public static void main (String[] args) {
+
         double gallons;
 
         Scanner input = new Scanner(System.in);
