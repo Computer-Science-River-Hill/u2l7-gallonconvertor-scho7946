@@ -7,7 +7,7 @@ package org.example; //DO NOT DELETE
 
 import java.util.Scanner; 
 
-public class ScannerExample {
+public class Main {
   public static void main (String[] args) {
 
         double gallons;
